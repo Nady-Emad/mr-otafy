@@ -1,0 +1,1 @@
+var studyrows = [{"sdate":"2026-10-12","modality":"DX","streamID":1190,"fqdn":"orthonj.medstrat.com","pname":"Youssef, Trize","sdesc":"Ankle LT","sex":"F","stime":"16:35:19","received":"2026-10-12 20:36:41.664013","archive":"Y","pid":"PS260638","numimages":3,"refphys":"Brief, Andrew","siuid":"1.2.840.114204.1.4.1.10.142.0.2.2027033.20261012.203216277104.11"}]
